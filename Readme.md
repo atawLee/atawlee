@@ -59,5 +59,4 @@
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/email-me@example.com-blue?style=flat&logo=gmail)](mailto:atawlee@hotmail.com)  
 [![Blog](https://img.shields.io/badge/Blog-Visit-blue?style=flat&logo=dev.to)](https://blog.atawlee.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([(1) JongHoon Lee | LinkedIn](https://www.linkedin.com/in/atawlee/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atawlee/)
