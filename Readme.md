@@ -5,11 +5,11 @@
  
 ## 🛠 Tech Stack
 ### 📌 Language
-⚡ C# | Java | Dart(Flutter) | JavaScript
+⚡ C# | Dart(Flutter) | JavaScript
 
 ### 📌 Frameworks
 #### Backend
-- ASP.NET Core | ASP.NET | Spring Boot
+- ASP.NET Core | ASP.NET 
 #### Desktop Application
 - Window Forms | WPF | Avalonia | Flutter
 #### Web Frontend
